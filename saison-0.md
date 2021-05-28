@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## Bienvenu à la saison 0. C'est ici que tout commence.
 
