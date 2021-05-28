@@ -5,6 +5,7 @@ layout: default
 Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle. 
 
 Avant de s'attaquer aux formations en IA, il serait judicieux de participer la formation sur l'initiation à la **programmation en PYTHON**.
+Cependant cette formation n'est pas obligatoire vu que des rappels sur le langage de programmation PYTHON sont donnés en [Saison 0: Python pour la SD](./saison-0.html).
 
 ## [Introduction à la programmation en PYTHON](./programmation-en-python.html).
 Le cours _Introduction à la programmation Python_ vous permettra d’acquérir les connaissances de base en programmation en langage Python. Vous serez en mesure de créer des scripts pour ligne de commande, ou encore des programmes avec une interface graphique.
@@ -13,7 +14,7 @@ Le cours _Introduction à la programmation Python_ vous permettra d’acquérir 
 Les formations en Intelligence Artificielle sont organisés en saisons et sont de difficulté croissante. En termes simples, chaque saison représente une formation et nous en avons cinq(05). Ces formations présentent les fondements de l'apprentissage machine qui est surement la branche la plus répandue de l'IA.
 
 
-## [Saison 0: Programmation Python](./saison-0.html).
+## [Saison 0: Python pour la SD](./saison-0.html).
 Cette saison présente les rudiments de la programmation en utilisant le langage [`Python`](https://www.python.org/). Les bases de Python pour la Science des données. Les supports de cours sont sous forme de
 [`calepins jupyter`](https://jupyter.org/). Vous y trouverez des syntaxes du genre:
 
