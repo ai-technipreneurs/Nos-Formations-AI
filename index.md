@@ -8,8 +8,8 @@ Elles sont organisés en saisons et sont de difficulté croissante. En termes si
 
 
 ## [Saison 0: Programmation Python](./saison-0.html).
-Cette saison présente les rudiments de la programmation en utilisant le langage [`Python`](./another-page.html). Les bases de Python pour la Science des données. Les supports de cours sont des
-[`calepins`](./another-page.html). Vous y trouverez des syntaxes du genre:
+Cette saison présente les rudiments de la programmation en utilisant le langage [`Python`](https://www.python.org/). Les bases de Python pour la Science des données. Les supports de cours sont sous forme de
+[`calepins jupyter`](https://jupyter.org/). Vous y trouverez des syntaxes du genre:
 
 ```python
 # Scipt Python script avec avec coloration syntaxique.
@@ -39,3 +39,6 @@ Cette saison présente les rudiments de la programmation en utilisant le langage
 Cette saison présente les rudiments de la programmation en utilisant le langage [`Python`](./another-page.html). Les supports de cours sont des
 [`calepins`](./another-page.html).
 
+
+## [Introduction à la programmation en PYTHON](./programmation-en-python.html)
+Le cours _Introduction à la programmation Python_ vous permettra d’acquérir les connaissances de base en programmation en langage Python. Vous serez en mesure de créer des scripts pour ligne de commande, ou encore des programmes avec une interface graphique.
