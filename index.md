@@ -2,9 +2,15 @@
 layout: default
 ---
 
-Ce site rassemble l'essentiel de nos formation en Intelligence Artificielle. 
+Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle. 
 
-Elles sont organisés en saisons et sont de difficulté croissante. En termes simples, chaque saison représente une formation et nous en avons cinq(05). Ces formations présentent les fondements de l'apprentissage machine qui est surement la branche la plus répandue de l'IA.
+Avant de s'attaquer aux formations en IA, il serait judicieux de participer la formation sur l'initiation à la **programmation en PYTHON**.
+
+## [Introduction à la programmation en PYTHON](./programmation-en-python.html).
+Le cours _Introduction à la programmation Python_ vous permettra d’acquérir les connaissances de base en programmation en langage Python. Vous serez en mesure de créer des scripts pour ligne de commande, ou encore des programmes avec une interface graphique.
+
+
+Les formations en Intelligence Artificielle sont organisés en saisons et sont de difficulté croissante. En termes simples, chaque saison représente une formation et nous en avons cinq(05). Ces formations présentent les fondements de l'apprentissage machine qui est surement la branche la plus répandue de l'IA.
 
 
 ## [Saison 0: Programmation Python](./saison-0.html).
@@ -40,5 +46,4 @@ Cette saison présente les rudiments de la programmation en utilisant le langage
 [`calepins`](./another-page.html).
 
 
-## [Introduction à la programmation en PYTHON](./programmation-en-python.html)
-Le cours _Introduction à la programmation Python_ vous permettra d’acquérir les connaissances de base en programmation en langage Python. Vous serez en mesure de créer des scripts pour ligne de commande, ou encore des programmes avec une interface graphique.
+
