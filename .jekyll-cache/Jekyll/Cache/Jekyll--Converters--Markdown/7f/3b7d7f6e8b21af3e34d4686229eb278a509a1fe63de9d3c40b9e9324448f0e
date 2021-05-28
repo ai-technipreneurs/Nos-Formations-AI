@@ -1,0 +1,29 @@
+I"+<h2 id="welcome-to-another-page">Welcome to another page</h2>
+
+<p>Ceci est la page qui contient la saison 1.</p>
+
+<h1 id="header-1">Header 1</h1>
+
+<p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+
+<h2 id="header-2">Header 2</h2>
+
+<blockquote>
+  <p>This is a blockquote following a header.</p>
+
+  <p>When something is important enough, you do it even if the odds are not in your favor.</p>
+</blockquote>
+
+<h3 id="header-3">Header 3</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">//</span> <span class="n">Javascript</span> <span class="n">code</span> <span class="k">with</span> <span class="n">syntax</span> <span class="n">highlighting</span><span class="p">.</span>
+<span class="n">var</span> <span class="n">fun</span> <span class="o">=</span> <span class="n">function</span> <span class="n">lang</span><span class="p">(</span><span class="n">l</span><span class="p">)</span> <span class="p">{</span>
+  <span class="n">dateformat</span><span class="p">.</span><span class="n">i18n</span> <span class="o">=</span> <span class="n">require</span><span class="p">(</span><span class="s">'./lang/'</span> <span class="o">+</span> <span class="n">l</span><span class="p">)</span>
+  <span class="k">return</span> <span class="n">true</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><em>yay</em></p>
+
+<p><a href="./">back</a></p>
+:ET
