@@ -1,6 +1,4 @@
---
-layout: default
----
+
 
 ## Bienvenu à la formation _Introduction à la programmation Python_. 
 
