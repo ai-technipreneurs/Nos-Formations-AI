@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Naereen/ParcourSup.py/master?filepath=notebooks%2FParcourSup.py_version_simplifiee.ipynb)
+
+
 Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle. 
 
 Avant de s'attaquer aux formations en IA, il serait judicieux de participer la formation sur l'initiation à la **programmation en PYTHON**.
