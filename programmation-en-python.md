@@ -23,16 +23,19 @@ layout: default
 * Création de fonctions
 
 
-### MÉTHODOLOGIE
-Présentations théoriques
-Exercices pratiques.
+###### Organisation
+
+|        |         | 
+|:-------------|:------------------|
+| MÉTHODOLOGIE           | Présentations théoriques, Exercices pratiques |   
+| PUBLIC VISÉ | Toute personne intéressée par la programmation.   | 
+| PARTICULARITÉS          | Cette est offert entièrement en ligne, de manière synchrone (en temps réel) avec [`Google Colab`](https://research.google.com/colaboratory/).       | 
 
 
-### PUBLIC VISÉ
-Toute personne intéressée par la programmation.
 
-### PARTICULARITÉS
-Cette est offert entièrement en ligne, de manière synchrone (en temps réel) avec [`Google Colab`](https://research.google.com/colaboratory/). 
+
+
+
 
 
 
