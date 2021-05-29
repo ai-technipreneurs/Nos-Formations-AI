@@ -25,9 +25,9 @@
 
 |        |         | 
 |:-------------|:------------------|
-| MÉTHODOLOGIE           | Présentations théoriques, Exercices pratiques |   
-| PUBLIC VISÉ | Toute personne intéressée par la programmation.   | 
-| PARTICULARITÉS          | Cette est offert entièrement en ligne, de manière synchrone (en temps réel) avec [`Google Colab`](https://research.google.com/colaboratory/).       | 
+| Méthodologie           | Présentations théoriques, Exercices pratiques |   
+| Public visé| Toute personne intéressée par la programmation.   | 
+| Particularités          | Cette est offert entièrement en ligne, de manière synchrone (en temps réel) avec [`Google Colab`](https://research.google.com/colaboratory/).       | 
 
 
 
