@@ -35,15 +35,15 @@ La majorité des librairies scientifiques s'appuient sur ce que l'on nomme la [S
 
 
 ## [Saison 2: Analyse et visualisation de données  ](./saison-2.html).
-La visualisation des données est une partie essentielle du pipeline de la data science. Lors des premières étapes d’un projet, vous effectuerez souvent une analyse exploratoire des données afin d’avoir une compréhension plus profonde de vos données.
-
-Cette saison présente les rudiments de l'analyse et visualisation de données en Python en s'appuyant sur les bibliothèques [Pandas](http://pandas.pydata.org/) et [Seaborn](https://seaborn.pydata.org/).
+La visualisation des données est une partie essentielle du pipeline de la data science. Lors des premières étapes d’un projet, vous effectuerez souvent une analyse exploratoire des données afin d’avoir une compréhension plus profonde de vos données. Cette saison présente les rudiments de l'analyse et visualisation de données en Python en s'appuyant sur les bibliothèques [Pandas](http://pandas.pydata.org/) et [Seaborn](https://seaborn.pydata.org/).
 
 
 
 ## [Saison 3: Apprentissage Machine](./saison-3.html).
-Cette saison présente les rudiments de la programmation en utilisant le langage [`Python`](./another-page.html). Les supports de cours sont des
-[`calepins`](./another-page.html).
+
+Dans cette saison divisée en deux (02) parties nous vous proposons de découvrir les bases de l'apprentissage automatique. La première partie, qui se veut non technique, présente les concepts du Machine Learning, les différents types d'apprentissage et leurs principaux algorithmes. Dans la seconde partie nous passerons enfin à la pratique avec le langage Python et la librairie [Scikit-Learn](https://scikit-learn.org/stable/)!
+
+
 
 ## [Saison 4](./saison-4.html).
 Cette saison présente les rudiments de la programmation en utilisant le langage [`Python`](./another-page.html). Les supports de cours sont des
