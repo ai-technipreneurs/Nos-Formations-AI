@@ -4,7 +4,9 @@ layout: default
 
 
 
-Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle. Le deep learning et le machine learning font partie des méthodes les plus connues de l'intelligence artificielle, et leur usage en entreprise ne cesse de se développer. Pour réussir à enfin comprendre et utiliser ces notions, nous vous proposons ces cours pratiques d'initiation. 
+Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle. Le deep learning et le machine learning font partie des méthodes les plus connues de l'intelligence artificielle, et leur usage en entreprise ne cesse de se développer. Le premier se fonde sur des approches mathématiques et statistiques pour donner aux ordinateurs la capacité d' " apprendre " à partir de données, c'est-à-dire accomplir des tâches pour lesquelles ils n'ont pas été spécifiquement programmés. Le second, aussi appelé apprentissage profond, est une branche du machine learning, qui consiste en un ensemble de méthodes d'apprentissage automatique permettant de créer des modèles à partir d'un grand nombre de données, ce qui permet de concevoir des algorithmes capables d'émettre des prédictions.
+
+Pour réussir à enfin comprendre et utiliser ces notions, nous vous proposons ces cours pratiques d'initiation. 
 
 Avant de s'attaquer aux formations en IA, il serait judicieux de participer à la formation [**Atelier 3P**](https://ai-technipreneurs.github.io/site-officiel-atelier-3-P/).
 Cependant cette formation n'est pas obligatoire vu que des rappels sur le langage de programmation PYTHON sont donnés en [Saison 0: Python pour la Science des données](./saison-0.html).
