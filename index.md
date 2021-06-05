@@ -18,14 +18,14 @@ Les formations en Intelligence Artificielle sont organisés en saisons et sont d
 
 ## [Saison 0: Python pour la SD](./saison-0.html).
 Cette saison présente les rudiments de la programmation en utilisant le langage [`Python`](https://www.python.org/). Les bases de Python pour la Science des données. Les supports de cours sont sous forme de
-[`calepins jupyter`](https://jupyter.org/). Vous y trouverez des syntaxes du genre:
+[`calepins jupyter`](https://jupyter.org/). Un outil utile sera [`Colab`](https://colab.research.google.com/notebooks/welcome.ipynb?hl=fr)
+Vous y trouverez des syntaxes du genre:
 
 ```python
 # Scipt Python script avec avec coloration syntaxique.
 nom = "Ulrich"
 age = 25
 print(nom, "a", age, "ans.")
-
 ```
 
 
