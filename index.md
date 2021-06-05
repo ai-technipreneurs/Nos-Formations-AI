@@ -9,7 +9,8 @@ Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle.
 Avant de s'attaquer aux formations en IA, il serait judicieux de participer à la formation [**Atelier 3P**](https://ai-technipreneurs.github.io/site-officiel-atelier-3-P/).
 Cependant cette formation n'est pas obligatoire vu que des rappels sur le langage de programmation PYTHON sont donnés en [Saison 0: Python pour la Science des données](./saison-0.html).
 
-## [Initiation à la programmation en PYTHON](https://ai-technipreneurs.github.io/site-officiel-atelier-3-P/)
+
+## <b><a href="https://ai-technipreneurs.github.io/site-officiel-atelier-3-P/">Initiation à la programmation en PYTHON</a></b>
 Le cours _Introduction à la programmation Python_ vous permettra d’acquérir les connaissances de base en programmation en langage Python. Vous serez en mesure de créer des scripts pour ligne de commande, ou encore des programmes avec une interface graphique.
 
 
