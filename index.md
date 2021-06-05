@@ -29,14 +29,16 @@ print(nom, "a", age, "ans.")
 ```
 
 
-## [Saison 1: Modules Scientifiqes](./saison-1.html).
+## [Saison 1: Modules Scientifiqes en Python](./saison-1.html).
 La majorité des librairies scientifiques s'appuient sur ce que l'on nomme la [Scipy Stack](https://www.scipy.org/stackspec.html), regroupant les librairies de base qui forment le socle sur lequel sont développées toutes les autres. Dans cette saison, nous proposons d’étudier trois (03) modules scientifiqes de Python, des plus populaires, savoir [Numpy](http://www.numpy.org/), [Scipy](http://docs.scipy.org/doc/scipy/reference/) et [Matplotlib](http://matplotlib.org/).
 
 
 
-## [Saison 2: Analyse de données et visualisation ](./saison-2.html).
-Cette saison présente les rudiments de la programmation en utilisant le langage [`Python`](./another-page.html). Les supports de cours sont des
-[`calepins`](./another-page.html).
+## [Saison 2: Analyse et visualisation de données  ](./saison-2.html).
+La visualisation des données est une partie essentielle du pipeline de la data science. Lors des premières étapes d’un projet, vous effectuerez souvent une analyse exploratoire des données afin d’avoir une compréhension plus profonde de vos données.
+
+Cette saison présente les rudiments de l'analyse et visualisation de données en Python en s'appuyant sur les bibliothèques [Pandas](http://pandas.pydata.org/) et [Seaborn](https://seaborn.pydata.org/).
+
 
 
 ## [Saison 3: Apprentissage Machine](./saison-3.html).
