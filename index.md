@@ -2,12 +2,11 @@
 layout: default
 ---
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Naereen/ParcourSup.py/master?filepath=notebooks%2FParcourSup.py_version_simplifiee.ipynb)
 
 
 Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle. 
 
-Avant de s'attaquer aux formations en IA, il serait judicieux de participer  à la formation sur l' [**Initiation à la programmation en PYTHON**](./programmation-en-python.html).
+Avant de s'attaquer aux formations en IA, il serait judicieux de participer à la formation [**Atelier 3P**](https://ai-technipreneurs.github.io/site-officiel-atelier-3-P/).
 Cependant cette formation n'est pas obligatoire vu que des rappels sur le langage de programmation PYTHON sont donnés en [Saison 0: Python pour la SD](./saison-0.html).
 
 ## [Initiation à la programmation en PYTHON](./programmation-en-python.html).
@@ -26,7 +25,7 @@ Cette saison présente les rudiments de la programmation en utilisant le langage
 nom = "Ulrich"
 age = 25
 print(nom, "a", age, "ans.")
-}
+
 ```
 
 
