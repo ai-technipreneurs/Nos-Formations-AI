@@ -4,7 +4,7 @@ layout: default
 
 
 
-Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle. 
+Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle. Le deep learning et le machine learning font partie des méthodes les plus connues de l'intelligence artificielle, et leur usage en entreprise ne cesse de se développer. Pour réussir à enfin comprendre et utiliser ces notions, nous vous proposons ces cours pratiques d'initiation. 
 
 Avant de s'attaquer aux formations en IA, il serait judicieux de participer à la formation [**Atelier 3P**](https://ai-technipreneurs.github.io/site-officiel-atelier-3-P/).
 Cependant cette formation n'est pas obligatoire vu que des rappels sur le langage de programmation PYTHON sont donnés en [Saison 0: Python pour la Science des données](./saison-0.html).
@@ -43,6 +43,7 @@ print(nom, "a", age, "ans.")
 
 # <b><a href="url">Apprentisage Profond (AP)</a></b>
 Cette formation est destinée aux développeurs, Data Scientists et Architectes souhaitant une initiation complète au **Deep Learning**. 
+
 
 
 
