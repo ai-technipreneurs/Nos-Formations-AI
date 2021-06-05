@@ -30,8 +30,7 @@ print(nom, "a", age, "ans.")
 
 
 ## [Saison 1: Modules Scientifiqes](./saison-1.html).
-Cette saison présente les rudiments de la programmation en utilisant le langage [`Python`](./another-page.html). Les supports de cours sont des
-[`calepins`](./another-page.html).
+La majorité des librairies scientifiques s'appuient sur ce que l'on nomme la [Scipy Stack](https://www.scipy.org/stackspec.html), regroupant les librairies de base qui forment le socle sur lequel sont développées toutes les autres. Dans cette saison, nous proposons d’étudier trois (03) modules scientifiqes de Python, des plus populaires, savoir [Numpy](http://www.numpy.org/), [Scipy](http://docs.scipy.org/doc/scipy/reference/) et [Matplotlib](http://matplotlib.org/).
 
 
 
