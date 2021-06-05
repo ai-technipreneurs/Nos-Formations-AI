@@ -41,7 +41,8 @@ print(nom, "a", age, "ans.")
   Dans cette saison divisée en deux (02) parties nous vous proposons de découvrir les bases de l'apprentissage automatique. La première partie, qui se veut non technique, présente les concepts du Machine Learning, les différents types d'apprentissage et leurs principaux algorithmes. Dans la seconde partie nous passerons enfin à la pratique avec le langage Python et la librairie [Scikit-Learn](https://scikit-learn.org/stable/)!
 
 
-
+# <b><a href="url">Apprentisage Profond (AP)</a></b>
+Cette formation est destinée aux développeurs, Data Scientists et Architectes souhaitant une initiation complète au **Deep Learning**. 
 
 
 
