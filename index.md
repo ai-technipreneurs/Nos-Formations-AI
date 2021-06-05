@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Bienvenu sur le site de nos formations en IA.
+****
 
 Tout le monde a entendu parler de l'intelligence artificielle, mais ne sait pas nécessairement comment cela fonctionne vraiment, ni ce qu'on peut en faire concrètement en entreprise.
 Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle. Le deep learning et le machine learning font partie des méthodes les plus connues de l'intelligence artificielle, et leur usage en entreprise ne cesse de se développer. Le premier se fonde sur des approches mathématiques et statistiques pour donner aux ordinateurs la capacité d' " apprendre " à partir de données, c'est-à-dire accomplir des tâches pour lesquelles ils n'ont pas été spécifiquement programmés. Le second, aussi appelé apprentissage profond, est une branche du machine learning, qui consiste en un ensemble de méthodes d'apprentissage automatique permettant de créer des modèles à partir d'un grand nombre de données, ce qui permet de concevoir des algorithmes capables d'émettre des prédictions.
