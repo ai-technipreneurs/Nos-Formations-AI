@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-
+Tout le monde a entendu parler de l'intelligence artificielle, mais ne sait pas nécessairement comment cela fonctionne vraiment, ni ce qu'on peut en faire concrètement en entreprise.
 Ce site rassemble l'essentiel de nos formations en Intelligence Artificielle. Le deep learning et le machine learning font partie des méthodes les plus connues de l'intelligence artificielle, et leur usage en entreprise ne cesse de se développer. Le premier se fonde sur des approches mathématiques et statistiques pour donner aux ordinateurs la capacité d' " apprendre " à partir de données, c'est-à-dire accomplir des tâches pour lesquelles ils n'ont pas été spécifiquement programmés. Le second, aussi appelé apprentissage profond, est une branche du machine learning, qui consiste en un ensemble de méthodes d'apprentissage automatique permettant de créer des modèles à partir d'un grand nombre de données, ce qui permet de concevoir des algorithmes capables d'émettre des prédictions.
 
 Pour réussir à enfin comprendre et utiliser ces notions, nous vous proposons ces cours pratiques d'initiation. 
@@ -17,7 +17,7 @@ Le cours _Introduction à la programmation Python_ vous permettra d’acquérir 
 
 
 # <b><a href="url">Apprentisage Automatique (AA)</a></b>
-Les formations en **Apprentissage Automatique** sont organisés en saisons et sont de difficulté croissante. En termes simples, chaque saison représente une formation et nous en avons quatre (04). Ces formations présentent les fondements de l'apprentissage machine qui est certainement la branche la plus répandue de l'IA.
+Le machine learning ou **Apprentissage Automatique** est une des branches particulièrement utilisées de l'intelligence artificielle, qui permet de programmer des machines pour qu'elles apprennent automatiquement à partir de jeux de données. Les formations en **Apprentissage Automatique** sont organisés en saisons et sont de difficulté croissante. En termes simples, chaque saison représente une formation et nous en avons quatre (04). Ces formations présentent les fondements de l'apprentissage machine qui est certainement la branche la plus répandue de l'IA.
 
 * ## <b><a href="url">AA_Saison 0: Python pour la Science des données</a></b>
   Cette saison présente les rudiments de la programmation en utilisant le langage [`Python`](https://www.python.org/). Les bases de Python pour la Science des   données. Les supports de cours sont sous forme de
@@ -44,6 +44,7 @@ print(nom, "a", age, "ans.")
 
 
 # <b><a href="url">Apprentisage Profond (AP)</a></b>
+Cet atelier vous permettra de maîtriser les concepts clé du Deep Learning ou **Apprentisage Profond** et de ses différents domaines de spécialisation. Vous découvrirez également les principales architectures de réseau existant aujourd'hui.
 Cette formation est destinée aux développeurs, Data Scientists et Architectes souhaitant une initiation complète au **Deep Learning**. 
 
 
